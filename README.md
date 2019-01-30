@@ -24,12 +24,6 @@ Here is the structure of the final documentation, which reflects our shipping pr
 7. Design goals
 8. System scenario example
 
-For previous versions, you can find them at [Assignment 1 Version](https://github.com/n6600shaw/GradRec/tree/master/Documentation/Assignment_1) and [Assignment 2 Version](https://github.com/n6600shaw/GradRec/tree/master/Documentation/Assignment_2).
-
-# View the Demo Page
-
-To view the demo page, just visit [sc-3.cs.mun.ca/](http://sc-3.cs.mun.ca/).
-
 # Source Code
 
 The source code of the system can be found at our [GitHub repository](https://github.com/n6600shaw/GradRec). 
